@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Fotos✨</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+    <h1>Fotos✨</h1>
+
+    <input type="text" id="buscador" placeholder="Buscar por título...">
+    <button id="cargarMas">Cargar más</button>
+
+    <select id="filtroAlbum">
+    <option value="todos">Todos los álbumes</option>
+</select>
+
+<select id="orden">
+    <option value="asc">ID menor → mayor</option>
+    <option value="desc">ID mayor → menor</option>
+</select>
+
+
+
+    <div class="galeria" id="galeria"></div>
+    <div id="paginacion"></div>
+
+
+    <div id="modal" class="modal">
+        <span id="cerrar">&times;</span>
+        <img id="imagenGrande">
+        <p id="tituloModal"></p>
+    </div>
+
+
+
+    <script src="script.js"></script>
+</body>
+
+

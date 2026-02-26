@@ -1,0 +1,13 @@
+body { font-family: Arial, sans-serif; background-color: #f0f0f0; text-align: center; }
+.container { margin-top: 50px; }
+.card { 
+    background: rgb(235, 93, 93); 
+    border-radius: 15px; 
+    padding: 20px; 
+    width: 300px; 
+    margin: 20px auto; 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
+}
+img { width: 150px; height: 150px; }
+input { padding: 10px; border-radius: 5px; border: 1px solid #f05050; }
+button { padding: 10px; background-color: #a72825; color: white; border: none; cursor: pointer; }
