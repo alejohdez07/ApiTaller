@@ -1,4 +1,4 @@
-#📡 Taller de Consumo de APIs con JavaScript
+📡 Taller de Consumo de APIs con JavaScript
 
 Este proyecto corresponde al desarrollo práctico del taller de Programación Web 2, enfocado en el consumo de APIs utilizando JavaScript moderno.
 
